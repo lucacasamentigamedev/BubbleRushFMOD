@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{3de92005-7978-4211-bdbc-6d39c66064c5}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../UnrealProjects/GGJ2025/Content/FMOD</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{2cb04bf7-23d1-43bb-a72e-9c281d86a1f9}</destination>
 		</relationship>
