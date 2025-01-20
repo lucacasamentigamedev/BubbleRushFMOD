@@ -11,7 +11,8 @@ public class PlayerTestClick : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector2 screenPoint = InputManager.Player_Mouse_Position;
-        Debug.Log(InputManager.Player_Mouse_Position);
+        Vector3 screenPoint = InputManager.Player_Mouse_Position;
+        screenPoint.z = 10;
+        Debug.Log(Camera.main.ScreenToWorldPoint(screenPoint));
     }
 }
