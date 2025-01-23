@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9d95449e-fa5a-4350-b89e-42975acb6be4}">
+		<property name="name">
+			<value>BUBBLE_MALUS</value>
+		</property>
+		<relationship name="folder">
+			<destination>{10d9368e-db67-4b09-83d2-278dd7586234}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{24a7b66d-fe80-4f9e-84a2-8d2253690141}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{24a7b66d-fe80-4f9e-84a2-8d2253690141}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>6</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

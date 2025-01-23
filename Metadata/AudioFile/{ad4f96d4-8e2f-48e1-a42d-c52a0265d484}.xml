@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ad4f96d4-8e2f-48e1-a42d-c52a0265d484}">
+		<property name="assetPath">
+			<value>BUBBLE_WIN.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{98f70223-beac-4cb9-9adf-cf1139468f37}</destination>
+		</relationship>
+	</object>
+</objects>

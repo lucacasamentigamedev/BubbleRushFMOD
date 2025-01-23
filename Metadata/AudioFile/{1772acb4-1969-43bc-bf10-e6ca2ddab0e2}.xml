@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1772acb4-1969-43bc-bf10-e6ca2ddab0e2}">
+		<property name="assetPath">
+			<value>BUBBLE_CONVEYOR_START.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.29077083333333331</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{98f70223-beac-4cb9-9adf-cf1139468f37}</destination>
+		</relationship>
+	</object>
+</objects>
