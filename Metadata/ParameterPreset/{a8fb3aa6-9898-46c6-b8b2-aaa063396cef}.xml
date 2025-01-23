@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{a8fb3aa6-9898-46c6-b8b2-aaa063396cef}">
+		<property name="name">
+			<value>BUBBLE_POP_TYPE</value>
+		</property>
+		<relationship name="folder">
+			<destination>{10d9368e-db67-4b09-83d2-278dd7586234}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2827fb1f-364c-46e8-8ba7-ed00a379eebc}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2827fb1f-364c-46e8-8ba7-ed00a379eebc}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>8</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

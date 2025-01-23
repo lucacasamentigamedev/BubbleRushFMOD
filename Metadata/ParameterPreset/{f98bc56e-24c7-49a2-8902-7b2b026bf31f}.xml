@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{f98bc56e-24c7-49a2-8902-7b2b026bf31f}">
+		<property name="name">
+			<value>BUBBLE_TOOL</value>
+		</property>
+		<relationship name="folder">
+			<destination>{10d9368e-db67-4b09-83d2-278dd7586234}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{23102444-ffdb-4144-adaa-a5fb6a38e599}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{23102444-ffdb-4144-adaa-a5fb6a38e599}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>8</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
