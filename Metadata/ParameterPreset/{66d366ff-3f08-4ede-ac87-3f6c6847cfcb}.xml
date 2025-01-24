@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{66d366ff-3f08-4ede-ac87-3f6c6847cfcb}">
+		<property name="name">
+			<value>TOOL_CHANGE</value>
+		</property>
+		<relationship name="folder">
+			<destination>{10d9368e-db67-4b09-83d2-278dd7586234}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{420e0a9b-3c33-4c73-8146-3b2dc3622dc9}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{420e0a9b-3c33-4c73-8146-3b2dc3622dc9}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
