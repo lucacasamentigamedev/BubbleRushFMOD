@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ab91baf7-2deb-4e28-97f0-beee2c602415}">
+		<property name="name">
+			<value>MUSIC_COUNTDOWN</value>
+		</property>
+		<relationship name="folder">
+			<destination>{10d9368e-db67-4b09-83d2-278dd7586234}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{c23d55b5-9ec9-4a03-aa94-6ada6c349387}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{c23d55b5-9ec9-4a03-aa94-6ada6c349387}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
