@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6428fd61-baeb-4560-a3e4-ad4ec40af172}">
+		<property name="assetPath">
+			<value>BUBBLE_AMBIENT.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>15.533333333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{98f70223-beac-4cb9-9adf-cf1139468f37}</destination>
+		</relationship>
+	</object>
+</objects>
