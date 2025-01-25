@@ -109,9 +109,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{2acacaa7-912d-4fae-bc2d-13e16b1a97a3}" />
 	<object class="SingleSound" id="{98971eba-842c-4aa8-8d9f-94ec92503dbd}">
-		<property name="start">
-			<value>0.20235698063782587</value>
-		</property>
 		<property name="length">
 			<value>48</value>
 		</property>
@@ -166,7 +163,7 @@
 	</object>
 	<object class="LoopRegion" id="{9483b3a4-a74b-4a0c-8b22-7ed77e8d5ddd}">
 		<property name="position">
-			<value>0.20235698063782587</value>
+			<value>0</value>
 		</property>
 		<property name="length">
 			<value>47.99733333333333</value>
@@ -200,7 +197,7 @@
 	</object>
 	<object class="TransitionRegion" id="{45f03d74-feb8-4ff5-bb92-cbb99c8bc5cf}">
 		<property name="position">
-			<value>0.20235698063782587</value>
+			<value>0</value>
 		</property>
 		<property name="length">
 			<value>47.99733333333333</value>
@@ -223,7 +220,7 @@
 	</object>
 	<object class="TempoMarker" id="{6a3b77e9-bbb8-4c0f-afb1-203c3d5cb2a4}">
 		<property name="position">
-			<value>0.20235698063782587</value>
+			<value>0</value>
 		</property>
 		<property name="tempo">
 			<value>160</value>
