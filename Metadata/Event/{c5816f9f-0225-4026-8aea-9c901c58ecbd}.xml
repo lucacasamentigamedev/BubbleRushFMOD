@@ -106,6 +106,9 @@
 		<property name="start">
 			<value>1</value>
 		</property>
+		<property name="volume">
+			<value>-4</value>
+		</property>
 		<relationship name="audioFile">
 			<destination>{d36ccf3d-d074-41db-90fd-9b0abb473199}</destination>
 		</relationship>
@@ -116,6 +119,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{c1748a04-8376-480d-ad23-3ca1a9ae18b7}">
+		<property name="volume">
+			<value>-10</value>
+		</property>
 		<property name="name">
 			<value>WIN_LOSE</value>
 		</property>
